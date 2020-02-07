@@ -6,4 +6,5 @@ BASE_HOA = {
 
 
 def add_character(show, name)
+  
 end
