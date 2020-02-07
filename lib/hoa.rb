@@ -6,12 +6,5 @@
 
 
 def add_character(show, name)
-shows = {
-  :chipmunks => ["Alvin", "Simon", "Theodore"],
-  :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
-  :jetsons => ["George", "Jane", "Judy", "Elroy"]
-}
-
-shows[show] << name
 
 end
